@@ -127,6 +127,32 @@ npm run dev
 
 ---
 
+---
+
+## 📸 API Testing (Postman)
+
+### 🔐 Login API
+
+![Login](./images/login-api.png)
+
+---
+
+### 👨‍🎤 Artist-only Route
+
+![Artist Only](./images/artist-only.png)
+
+---
+
+### 🎵 Music Upload (Multer + ImageKit)
+
+![Music Upload](./images/music-upload.png)
+
+---
+
+### 🌍 Public Songs API (Populate + Pagination)
+
+![Public Songs](./images/public-songs.png)
+
 ## 📌 Future Improvements
 
 - Add song-to-album linking
